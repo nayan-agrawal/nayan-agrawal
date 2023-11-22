@@ -28,7 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan-agrawal&show_icons=true&locale=en&layout=compact" alt="nayan-agrawal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayan-agrawal&show_icons=true&locale=en" alt="nayan-agrawal" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan-agrawal&" alt="nayan-agrawal" /></p>
  
