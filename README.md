@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayan-agrawal&label=Profile%20views&color=0e75b6&style=flat" alt="nayan-agrawal" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nayanagrawal.com/](https://nayanagrawal.com/)
+- 👨‍💻 All of my projects are available at [https://nayanagrawal.cloud/](https://nayanagrawal.cloud/)
 
-- 📝 I regularly write articles on [https://nayanagrawal.com/](https://nayanagrawal.com/)
+- 📝 I regularly write articles on [https://nayanagrawal.cloud/](https://nayanagrawal.cloud/)
 
 - 💬 Ask me about **Frontend Development, Backend Development, MERN Stack and how to learn and master Data Structures and Algorithms**
 
 - 📫 How to reach me **nayanagrawal939@gmail.com**
 
-- 📄 Know about my experiences [https://nayanagrawal.com/](https://nayanagrawal.com/)
+- 📄 Know about my experiences [https://nayanagrawal.cloud/](https://nayanagrawal.cloud/)
 
 - ⚡ Fun fact **I love to write epigraph**
 
